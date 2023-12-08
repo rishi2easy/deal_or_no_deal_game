@@ -11,8 +11,7 @@ import java.text.*;
  *
  * This class is used to provide a visual interface for a player 
  * in the CSC116 "Deal or No Deal" Game
- * @author Dan Longo
- * @author Suzanne Balik
+ * @author Rishabh Patel
  */
 public class DealGameGUI extends JFrame implements ActionListener {
     /** width of frame*/
